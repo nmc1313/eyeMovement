@@ -5,6 +5,8 @@ Check it out to see for yourself!
 
 Future improvements: Add more facial features.
 
+How to run: Visit my website, nmc1313.github.io for a direct link to the project!
+
 License information: 
    
 MIT License
